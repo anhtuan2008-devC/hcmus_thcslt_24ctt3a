@@ -1,0 +1,4 @@
+1. Ten:  Ford Mustang - Mau: Xanh - Diem: 9
+2. Ten:  Honda Civic - Mau: Trang - Diem: 8
+3. Ten:  Toyota Corolla - Mau: Xam - Diem: 7.5
+4. Ten: Toyota Camry - Mau: Do - Diem: 8.5
